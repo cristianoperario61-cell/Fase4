@@ -1,0 +1,12 @@
+2026-11-22 13:02:26,326 - INFO - Cliente registrado: Carlos Pérez
+2026-11-22 13:02:26,326 - INFO - Cliente registrado: Ana López
+2026-11-22 13:02:26,327 - INFO - Servicio registrado: Sala de reuniones
+2026-11-22 13:02:26,327 - INFO - Servicio registrado: Computador portátil
+2026-11-22 13:02:26,328 - INFO - Servicio registrado: Asesoría informática
+2026-11-22 13:02:26,332 - INFO - Reserva registrada: R001
+2026-11-22 19:39:29,656 - INFO - Cliente registrado: Carlos Pérez
+2026-11-22 19:39:29,657 - INFO - Cliente registrado: Ana López
+2026-11-22 19:39:29,657 - INFO - Servicio registrado: Sala de reuniones
+2026-11-22 19:39:29,657 - INFO - Servicio registrado: Computador portátil
+2026-11-22 19:39:29,657 - INFO - Servicio registrado: Asesoría informática
+2026-11-22 19:39:29,658 - INFO - Reserva registrada: R001
